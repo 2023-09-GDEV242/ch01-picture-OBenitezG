@@ -180,12 +180,12 @@ public class Picture
         treeOne.changeColor("black");
         treeTwo.changeColor("black");
         mainWall.changeColor("black");
+        bodyWallVoid.changeColor("white");
         mainRoof.changeColor("black");
         
         mainDoor.changeColor("white");
         mainDoorTop.changeColor("white");
         mainDoorTop.changeColor("white");
-        bodyWallVoid.changeColor("white");
         mainRoofVoid.changeColor("white");
         circleVoidOne.changeColor("white");
         circleVoidTwo.changeColor("white");
@@ -203,17 +203,17 @@ public class Picture
     public void setColor()
     {
         sun.changeColor("yellow");
-        bodyWall.changeColor("blue");
         treeTrunk.changeColor("black");
         treeOne.changeColor("green");
         treeTwo.changeColor("green");
         mainWall.changeColor("red");
+        bodyWall.changeColor("blue");
+        bodyWallVoid.changeColor("white");
         mainRoof.changeColor("blue");
         
         mainDoor.changeColor("white");
         mainDoorTop.changeColor("white");
         mainDoorTop.changeColor("white");
-        bodyWallVoid.changeColor("white");
         mainRoofVoid.changeColor("white");
         circleVoidOne.changeColor("white");
         circleVoidTwo.changeColor("white");
